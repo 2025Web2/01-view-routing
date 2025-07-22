@@ -20,9 +20,7 @@
 
 Laravelを少しでも勉強している方はご存知かもしれませんが、Laravelのサーバーを起動するためには、本来は以下のコマンドを実行する必要があります。
 
-```bash
-php artisan serve
-```
+`php artisan serve`
 
 ```
 
