@@ -1,6 +1,6 @@
 # ビュー、ルーティング
 
-[こちらのページ](https://classroom.github.com/a/jaddWvtr)から、ソースコードを`C:¥sys_dev_exe`へcloneしてください。
+[こちらのページ](https://classroom.github.com/a/S_uwrlWK)から、ソースコードを`C:¥sys_dev_exe`へcloneしてください。
 
 ## 本章の狙い
 
